@@ -1,0 +1,11 @@
+#canvas {
+    border-color: white;
+    border-radius: 10px;
+    border-style: ridge;
+    border-width: 10px;
+}
+
+h1 {
+    font-family: 'Ysabeau SC', sans-serif;
+    font-size: 50px;
+}
